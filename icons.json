@@ -74,6 +74,34 @@
     "name": "replay",
     "svg": "repeat.svg"
   }, {
+    "name": "playlist-previous",
+    "svg": "step-backward.svg"
+  }, {
+    "name": "playlist-next",
+    "svg": "step-forward.svg"
+  }, {
+    "name": "related-previous",
+    "svg": "chevron-left.svg"
+  }, {
+    "name": "related-next",
+    "svg": "chevron-right.svg"
+  }, {
+    "name": "airplay",
+    "svg": "ic_airplay_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
+  }, {
+    "name": "airplay-active",
+    "svg": "airplay-active.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "chromecast",
+    "svg": "ic_cast_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/hardware/svg/production/"
+  }, {
+    "name": "chromecast-active",
+    "svg": "ic_cast_connected_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/hardware/svg/production/"
+  }, {
     "name": "facebook",
     "svg": "facebook.svg"
   }, {
