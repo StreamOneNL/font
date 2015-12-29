@@ -1,7 +1,9 @@
-# Video.js Icon Font
+# StreamOne player icon Font
 
-This project contains all of the tooling necessary to generate a new icon font for Video.js. The icons themselves are from
+This project contains all of the tooling necessary to generate a new icon font for StreamOne player version 2. The icons themselves are from
 Google's [Material Design Icons](https://github.com/google/material-design-icons).
+
+This project is based on the [Video.js font](https://github.com/videojs/font).
 
 ## Usage
 
@@ -18,7 +20,7 @@ SVGs from the [Material Design set](https://www.google.com/design/icons/), or pu
 
 ```json
 {
-  "font-name": "VideoJS",
+  "font-name": "StreamOne",
   "root-dir": "./node_modules/material-design-icons/",
   "icons": [
     {

@@ -25,18 +25,18 @@ $icons: (
 // Now that we have a map of icons above, we can iterate over that map and create an icon class
 // for each icon in that list. The iterator below produces CSS classes like this:
 //
-// .vjs-icon-play {
-//   font-family: VideoJS;
+// .s1-icon-play {
+//   font-family: StreamOne;
 //   font-weight: normal;
 //   font-style: normal;
 // }
-// .vjs-icon-play:before { content: "\25b6"; }
+// .s1-icon-play:before { content: "\25b6"; }
 //
 // We can then use @extend in the codebase when we need to add an icon to a class. @extend builds up
 // the selectors for you so you can avoid duplication. This is generally a bad idea, but since each
 // icon should only be extended one or two other places, we'll roll with it.
 @each $name, $content in $icons {
-  .vjs-icon-#{$name} {
+  .s1-icon-#{$name} {
     font-family: $icon-font-family;
     font-weight: normal;
     font-style: normal;

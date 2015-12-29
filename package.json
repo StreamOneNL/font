@@ -1,20 +1,20 @@
 {
-  "name": "videojs-font",
+  "name": "streamone-font",
   "version": "1.4.0",
-  "description": "Video.js icon font",
+  "description": "StreamOne player icon font",
   "repository": {
     "type": "git",
-    "url": "https://github.com/videojs/font.git"
+    "url": "https://github.com/StreamOneNL/font.git"
   },
   "keywords": [
-    "videojs"
+    "streamone"
   ],
-  "author": "Matthew McClure <m@mmcc.io>",
+  "author": "Hero van Commenée <hero@streamone.nl>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/videojs/font/issues"
+    "url": "https://github.com/StreamOneNL/font/issues"
   },
-  "homepage": "https://github.com/videojs/font",
+  "homepage": "https://github.com/StreamOneNL/font",
   "devDependencies": {
     "babel": "^5.4.7",
     "evil-icons": "^1.7.6",
