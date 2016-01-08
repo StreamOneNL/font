@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/StreamOneNL/font.git"
   },
+  "scripts": {
+    "version": "grunt && git add ."
+  },
   "keywords": [
     "streamone"
   ],
