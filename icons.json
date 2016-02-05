@@ -1,99 +1,143 @@
 {
   "font-name": "StreamOne",
-  "root-dir": "./node_modules/material-design-icons/",
+  "root-dir": "./fontawesome/white/svg/",
   "icons": [{
     "name": "play",
-    "svg": "av/svg/production/ic_play_arrow_48px.svg"
+    "svg": "play.svg"
   }, {
     "name": "play-circle",
-    "svg": "av/svg/production/ic_play_circle_outline_48px.svg"
+    "svg": "play-circle-o.svg"
   }, {
     "name": "pause",
-    "svg": "av/svg/production/ic_pause_48px.svg"
+    "svg": "pause.svg"
   }, {
     "name": "volume-mute",
-    "svg": "av/svg/production/ic_volume_off_48px.svg"
+    "svg": "ic_volume_off_48px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
   }, {
     "name": "volume-low",
-    "svg": "av/svg/production/ic_volume_mute_48px.svg"
+    "svg": "ic_volume_mute_48px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
   }, {
     "name": "volume-mid",
-    "svg": "av/svg/production/ic_volume_down_48px.svg"
+    "svg": "ic_volume_down_48px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
   }, {
     "name": "volume-high",
-    "svg": "av/svg/production/ic_volume_up_48px.svg"
+    "svg": "ic_volume_up_48px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
   }, {
     "name": "fullscreen-enter",
-    "svg": "navigation/svg/production/ic_fullscreen_48px.svg"
+    "svg": "expand.svg"
   }, {
     "name": "fullscreen-exit",
-    "svg": "navigation/svg/production/ic_fullscreen_exit_48px.svg"
+    "svg": "compress.svg"
   }, {
     "name": "square",
-    "svg": "image/svg/production/ic_crop_square_48px.svg"
+    "svg": "square-o.svg"
   }, {
     "name": "spinner",
-    "svg": "image/svg/production/ic_camera_48px.svg"
+    "svg": "spinner.svg"
   }, {
     "name": "subtitles",
-    "svg": "av/svg/production/ic_subtitles_48px.svg"
+    "svg": "ic_subtitles_48px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
   }, {
     "name": "captions",
-    "svg": "av/svg/production/ic_closed_caption_48px.svg"
+    "svg": "cc.svg"
   }, {
     "name": "chapters",
-    "svg": "action/svg/production/ic_list_48px.svg"
+    "svg": "list.svg"
   }, {
     "name": "share",
-    "svg": "social/svg/production/ic_share_48px.svg"
+    "svg": "share-alt.svg"
   }, {
     "name": "cog",
-    "svg": "action/svg/production/ic_settings_48px.svg"
+    "svg": "cog.svg"
   }, {
     "name": "circle",
-    "svg": "image/svg/production/ic_brightness_1_48px.svg"
+    "svg": "circle.svg"
   }, {
     "name": "circle-outline",
-    "svg": "image/svg/production/ic_panorama_fish_eye_48px.svg"
+    "svg": "circle-o.svg"
   }, {
     "name": "circle-inner-circle",
-    "svg": "image/svg/production/ic_adjust_48px.svg"
+    "svg": "dot-circle-o.svg"
   }, {
     "name": "hd",
-    "svg": "av/svg/production/ic_hd_24px.svg"
+    "svg": "ic_hd_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
   }, {
     "name": "cancel",
-    "svg": "navigation/svg/production/ic_cancel_48px.svg"
+    "svg": "times-circle.svg"
   }, {
     "name": "replay",
-    "svg": "av/svg/production/ic_replay_48px.svg"
+    "svg": "repeat.svg"
+  }, {
+    "name": "playlist-previous",
+    "svg": "step-backward.svg"
+  }, {
+    "name": "playlist-next",
+    "svg": "step-forward.svg"
+  }, {
+    "name": "related-previous",
+    "svg": "chevron-left.svg"
+  }, {
+    "name": "related-next",
+    "svg": "chevron-right.svg"
+  }, {
+    "name": "airplay",
+    "svg": "ic_airplay_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
+  }, {
+    "name": "airplay-active",
+    "svg": "airplay-active.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "chromecast",
+    "svg": "ic_cast_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/hardware/svg/production/"
+  }, {
+    "name": "chromecast-active",
+    "svg": "ic_cast_connected_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/hardware/svg/production/"
   }, {
     "name": "facebook",
-    "svg": "facebook.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "svg": "facebook.svg"
   }, {
     "name": "gplus",
-    "svg": "gplus.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "svg": "google-plus.svg"
   }, {
     "name": "linkedin",
-    "svg": "linkedin.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "svg": "linkedin.svg"
   }, {
     "name": "twitter",
-    "svg": "twitter.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "svg": "twitter.svg"
   }, {
     "name": "tumblr",
-    "svg": "tumblr.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "svg": "tumblr.svg"
   }, {
     "name": "pinterest",
-    "svg": "pinterest.svg",
-    "root-dir": "./custom-icons/fontawesome/"
+    "svg": "pinterest.svg"
   }, {
     "name": "audio-description",
     "svg": "audio-description.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "resize-tl",
+    "svg": "resize-tl.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "resize-tr",
+    "svg": "resize-tr.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "resize-bl",
+    "svg": "resize-bl.svg",
+    "root-dir": "./custom-icons/"
+  }, {
+    "name": "resize-br",
+    "svg": "resize-br.svg",
     "root-dir": "./custom-icons/"
   }]
 }
