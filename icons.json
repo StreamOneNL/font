@@ -87,8 +87,8 @@
     "svg": "chevron-right.svg"
   }, {
     "name": "airplay",
-    "svg": "ic_airplay_24px.svg",
-    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
+    "svg": "airplay.svg",
+    "root-dir": "./custom-icons/"
   }, {
     "name": "airplay-active",
     "svg": "airplay-active.svg",
