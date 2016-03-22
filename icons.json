@@ -139,5 +139,9 @@
     "name": "resize-br",
     "svg": "resize-br.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "share-thin",
+    "svg": "ic_share_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/social/svg/production/"
   }]
 }
