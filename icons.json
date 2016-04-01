@@ -143,5 +143,17 @@
     "name": "share-thin",
     "svg": "ic_share_24px.svg",
     "root-dir": "./node_modules/material-design-icons/social/svg/production/"
+  }, {
+    "name": "rewind-5",
+    "svg": "ic_replay_5_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
+  }, {
+    "name": "rewind-10",
+    "svg": "ic_replay_10_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
+  }, {
+    "name": "rewind-30",
+    "svg": "ic_replay_30_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/av/svg/production/"
   }]
 }
