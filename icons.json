@@ -155,5 +155,9 @@
     "name": "rewind-30",
     "svg": "ic_replay_30_24px.svg",
     "root-dir": "./node_modules/material-design-icons/av/svg/production/"
+  }, {
+    "name": "article",
+    "svg": "ic_description_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/action/svg/production/"
   }]
 }
