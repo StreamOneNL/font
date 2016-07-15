@@ -159,5 +159,9 @@
     "name": "article",
     "svg": "ic_description_24px.svg",
     "root-dir": "./node_modules/material-design-icons/action/svg/production/"
+  }, {
+    "name": "logo-s1",
+    "svg": "s1-logo.svg",
+    "root-dir": "./custom-icons/"
   }]
 }
