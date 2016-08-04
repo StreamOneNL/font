@@ -160,6 +160,10 @@
     "svg": "ic_description_24px.svg",
     "root-dir": "./node_modules/material-design-icons/action/svg/production/"
   }, {
+    "name": "related",
+    "svg": "ic_apps_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/navigation/svg/production/"
+  }, {
     "name": "logo-s1",
     "svg": "s1-logo.svg",
     "root-dir": "./custom-icons/"
