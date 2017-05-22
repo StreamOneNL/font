@@ -120,6 +120,9 @@
     "name": "pinterest",
     "svg": "pinterest.svg"
   }, {
+    "name": "whatsapp",
+    "svg": "whatsapp.svg"
+  }, {
     "name": "audio-description",
     "svg": "audio-description.svg",
     "root-dir": "./custom-icons/"
