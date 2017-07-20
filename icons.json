@@ -170,5 +170,9 @@
     "name": "logo-s1",
     "svg": "s1-logo.svg",
     "root-dir": "./custom-icons/"
+  }, {
+    "name": "headphones",
+    "svg": "ic_headset_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/hardware/svg/production/"
   }]
 }
