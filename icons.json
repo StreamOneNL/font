@@ -178,5 +178,9 @@
     "name": "annotation",
     "svg": "ic_speaker_notes_24px.svg",
     "root-dir": "./node_modules/material-design-icons/action/svg/production/"
+  }, {
+    "name": "info",
+    "svg": "ic_info_outline_24px.svg",
+    "root-dir": "./node_modules/material-design-icons/action/svg/production/"
   }]
 }
